@@ -1,0 +1,19 @@
+{
+	"name": "CANDY DROP TERMINAL",
+	"symbol": "CDNDRTR",
+	"image": "1.png",
+	"properties": {
+	  "files": [
+	    {
+	      "uri": "1.png",
+	      "type": "image/png"
+	    }
+	  ],
+	  "creators": [
+	    {
+	      "address": "86YHiU8o4m4v6V4aDEnqReSsVM58w8rMBR8f4RyDiqHd",
+	      "share": 100
+	    }
+	  ]
+	}
+}

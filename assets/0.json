@@ -1,0 +1,19 @@
+{
+	"name": "CANDY DROP",
+	"symbol": "CDNDR",
+	"image": "0.png",
+	"properties": {
+	  "files": [
+	    {
+	      "uri": "0.png",
+	      "type": "image/png"
+	    }
+	  ],
+	  "creators": [
+	    {
+	      "address": "86YHiU8o4m4v6V4aDEnqReSsVM58w8rMBR8f4RyDiqHd",
+	      "share": 100
+	    }
+	  ]
+	}
+}
